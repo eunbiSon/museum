@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'UhBee Kang-Ja';
+  src: url('UhBee Kang-Ja.eot');
+  src: url('UhBee Kang-Ja.eot?#iefix') format('embedded-opentype'),
+       url('UhBee Kang-Ja.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UhBeeKang-Ja';
+  src: url('UhBeeKang-Ja.svg#UhBeeKang-Ja') format('svg'),
+       url('UhBeeKang-Ja.ttf') format('truetype'),
+       url('UhBeeKang-Ja.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

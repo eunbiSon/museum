@@ -1,0 +1,109 @@
+%!Adobe-FontList 1.20
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UhBeeKang-JaBold
+FamilyName:UhBee Kang-Ja
+StyleName:Bold
+FullName:UhBee Kang-Ja Bold
+MenuName:UhBee Kang-Ja
+StyleBits:2
+FamilyNameNative:UhBee Kang-Ja
+StyleNameNative:Bold
+FullNameNative:UhBee Kang-Ja Bold
+WritingScript:Korean
+OutlineFileName:D:\과제(02)사이트 제작\경기도어린이박물관 (반응형)\Font\UhBee Kang-Ja Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:662288
+FileModTime:1343125928
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UhBee Kang-Ja Bold
+NameArray:0,Win,1,UhBee Kang-Ja
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UhBeeKang-Ja
+FamilyName:UhBee Kang-Ja
+StyleName:Regular
+FullName:UhBee Kang-Ja
+MenuName:UhBee Kang-Ja
+StyleBits:0
+FamilyNameNative:UhBee Kang-Ja
+StyleNameNative:Regular
+FullNameNative:UhBee Kang-Ja Regular
+WritingScript:Korean
+OutlineFileName:D:\과제(02)사이트 제작\경기도어린이박물관 (반응형)\Font\UhBee Kang-Ja.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:801096
+FileModTime:1343125926
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UhBee Kang-Ja
+NameArray:0,Win,1,UhBee Kang-Ja
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\과제(02)사이트 제작\경기도어린이박물관 (반응형)\Font\UhBee Kang-Ja.eot
+FileModTime:1604513060
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\과제(02)사이트 제작\경기도어린이박물관 (반응형)\Font\UhBee Kang-Ja.woff2
+FileModTime:1604513060
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\과제(02)사이트 제작\경기도어린이박물관 (반응형)\Font\UhBeeKang-Ja.svg
+FileModTime:1604513056
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UhBeeKang-Ja
+FamilyName:UhBee Kang-Ja
+StyleName:Regular
+FullName:UhBee Kang-Ja
+MenuName:UhBee Kang-Ja
+StyleBits:0
+FamilyNameNative:UhBee Kang-Ja
+StyleNameNative:Regular
+FullNameNative:UhBee Kang-Ja Regular
+WritingScript:Korean
+OutlineFileName:D:\과제(02)사이트 제작\경기도어린이박물관 (반응형)\Font\UhBeeKang-Ja.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:801360
+FileModTime:1604513056
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,UhBee Kang-Ja
+NameArray:0,Win,1,UhBee Kang-Ja
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\과제(02)사이트 제작\경기도어린이박물관 (반응형)\Font\UhBeeKang-Ja.woff
+FileModTime:1604513056
+%EndFont
+
